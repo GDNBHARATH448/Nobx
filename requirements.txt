@@ -1,3 +1,4 @@
+gTTS
 flask
 aiofiles
 aiohttp
@@ -15,8 +16,8 @@ opencv-python
 pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
+ntgcalls==1.1.2
 pykeyboard
-kurigram==2.1.35
 python-dotenv
 pyyaml
 requests
@@ -28,3 +29,4 @@ uvloop
 yt-dlp
 youtube-search
 youtube-search-python
+git+https://github.com/KurimuzonAkuma/pyrogram@dev
